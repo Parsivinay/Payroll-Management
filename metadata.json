@@ -1,0 +1,6 @@
+{
+  "name": "Employee Payroll Management System",
+  "description": "Comprehensive MERN stack Employee Payroll Management System featuring role-based access for Admin and Employees, automated salary calculations, attendance tracking, department management, payroll generation, salary slips with PDF export, and reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
